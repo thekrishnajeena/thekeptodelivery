@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "526586759409",
+    "project_id": "kepto-delivery",
+    "storage_bucket": "kepto-delivery.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526586759409:android:cf6d653c919e2370484150",
+        "android_client_info": {
+          "package_name": "com.krishnajeena.keptodelivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAO0XPt69bSvKxR8sPsRCHU1Hc5XgCM4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
